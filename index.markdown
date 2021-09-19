@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-<img src="https://github.com/dangraeber/academic_site/tree/gh-pages/assets/profile.jpg" alt="Avatar" width="300"  class = "center"/>
+<img src="{{ site.baseurl }}/assets/profile.jpg" alt="Avatar" width="300"  class = "center"/>
 
  **Welcome to my webpage!**
 
