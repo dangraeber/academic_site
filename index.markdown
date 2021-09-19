@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-![image]({{site.baseurl }}/assets/profile.jpg){: style="float: left"}
+![image]({{site.baseurl }}/assets/profile.jpg){: style="float: left"; width: 200}
 
  **Welcome to my webpage!**
 
