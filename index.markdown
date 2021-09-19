@@ -7,7 +7,9 @@ layout: page
 ---
 
 
-<img src="{{ site.baseurl }}/assets/profile.jpg" alt="Avatar" width="300"  class = "center"/>
+![image](site.baseurl }}/assets/profile.jpg){: style="float: left"}
+
+
 
  **Welcome to my webpage!**
 
