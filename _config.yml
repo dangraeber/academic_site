@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   economics of migration and intergenerational mobility. He is an
   postdoctoral researcher at the DIW Berlin.
 baseurl: "/academic_site" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dangraeber.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DanielGraeber
 github_username:  dangraeber
 
