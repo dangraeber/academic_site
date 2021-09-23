@@ -3,7 +3,7 @@ layout: page
 title: "Work in Progress"
 
 ---
-
+{: style="text-align: justify" }
 # Working Papers
 
 **"Hate is too great a burden to bear: Hate crimes and the mental health of refugees."** No. 1130. SOEPpapers on Multidisciplinary Panel Data Research, 2021. (with Felicitas Schikora) [Link to working paper](https://www.diw.de/de/diw_01.c.817746.de/publikationen/soeppapers/2021_1130/hate_is_too_great_a_burden_to_bear__hate_crimes_and_the_mental_health_of_refugees.html)
