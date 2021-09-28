@@ -2,14 +2,19 @@
 layout: default
 title: Blog
 ---
-<h1>Research blog</h1>
+<h1 style="color:MediumSeaGreen;">Research Blog</h1>
 
 
-Here, I share some summaries, notes and findings. This is mainly for me to reflect about things. But maybe this is interesting for others too.
+Here, I share some summaries, notes and findings. I am currently not teaching. And teaching and writing helps me to reflect and digest new informatin. Therefore, I share some insights at this place. Maybe this is helpful for others too.
+
+<p align="justify">
 
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+      {{ post.excerpt }}
+
     </li>
   {% endfor %}
+</p>
 </ul>
