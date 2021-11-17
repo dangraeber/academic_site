@@ -22,7 +22,7 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
-**"Asylum Seekers and Host Country Mental Health: \\Evidence from Germany and Switzerland"** (with Prashant Bharadwaj and Stephanie Khoury) [Link](https://www.dropbox.com/s/k0h4xn4fu2npzu8/20200521_asylum_MH%20%281%29.pdf?dl=0)
+**"Asylum Seekers and Host Country Mental Health: Evidence from Germany and Switzerland"** (with Prashant Bharadwaj and Stephanie Khoury) [Link](https://www.dropbox.com/s/k0h4xn4fu2npzu8/20200521_asylum_MH%20%281%29.pdf?dl=0)
 
 {: style="text-align: justify" }
 
