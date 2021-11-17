@@ -22,6 +22,12 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
+**"Asylum Seekers and Host Country Mental Health: \\Evidence from Germany and Switzerland"** (with Prashant Bharadwaj and Stephanie Khoury) [Link](https://www.dropbox.com/s/k0h4xn4fu2npzu8/20200521_asylum_MH%20%281%29.pdf?dl=0)
+
+Due to recent conflicts and humanitarian issues, millions of people have sought asylum in countries in Europe. The influx of asylum seekers has sparked debates about the impacts of such migratory flows on resident populations. We study how the recent migration of these forcibly displaced people into Europe affects the mental health of the receiving country residents in Switzerland and Germany. We exploit quasi-random variation in asylum seeker placement by matching settlement data with administrative health insurance data on mental health related treatments and survey data capturing self-reported mental health. Despite numerous possible mechanisms, in both countries, we find no economically meaningful effects of asylum seeker flows on residents' mental health.
+
+{: style="text-align: justify" }
+
 
 **"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer; revise and resubmit at Entrepreneurship Theory and Practice)
 
