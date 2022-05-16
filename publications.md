@@ -4,6 +4,13 @@ title: "Publications"
 ---
 
 # Economics
+
+**"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (forthcoming). (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
+
+{: style="text-align: justify" }
+
+*Abstract:* The disproportionate effect of the COVID-19 pandemic on entrepreneurs when compared to employees is a global phenomenon. While the differential economic hardship is well documented, less is known about the effects of COVID-19 on their mental health. Using representative, longitudinal survey data from Germany, we show that financial losses appear to be an important driver of negative changes in mental health. Moreover, in particular female entrepreneurs experience a substantial deterioration in their mental health, while most male entrepreneurs are getting through the pandemic without significant changes. Investigating mechanisms behind this gendered impact of the pandemic, we find that female entrepreneurs who are directly affected by government-imposed restrictions on doing business, experience considerably larger increases in the frequency of anxiety and depressive symptoms, as do those who face additional child-care burden resulting from the closure of schools. Lastly, we observe that high levels of resilience help both gender to better cope with the crisis. Policy measures should account for this variation in mental health effects by supporting the affected entrepreneurs with more predictable policy instruments.
+
 {: style="text-align: justify" }
 
 **"COVID-19: a crisis of the female self-employed"** (2021). Journal of Population Economics, 34: 1141–118. https://doi.org/10.1007/s00148-021-00849-y (with A. Kritikos and J. Seebauer)
