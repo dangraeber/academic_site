@@ -5,7 +5,7 @@ title: "Publications"
 
 # Economics
 
-**"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (forthcoming). (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
+**"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (forthcoming). Entrepreneurship Theory & Practice. (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
 
 {: style="text-align: justify" }
 
