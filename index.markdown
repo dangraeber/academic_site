@@ -13,4 +13,6 @@ layout: page
 
  {: style="text-align: justify" }
 
- I am a postdoctoral researcher in the SOEP department at the DIW Berlin. I am a health economist interested in understanding how socio-economic differences in health are transmitted across generations. My research also covers the interaction between immigration and mental health as well as the economics of the COVID-19 pandemic. You can contact me via dgraeber [at] diw [dot] de.
+ I am a postdoctoral researcher in the SOEP department at the DIW Berlin. I am also a Research Affilaite at the IZA Bonn and a Senior Member at the Center for Economic Policy Analysis.
+
+ I received my PhD summa cum laude from the University of Potsdam in 2021. I am a health economist and labor economist interested in understanding how socio-economic differences in health are transmitted across generations. My research also covers the interaction between immigration and mental health as well as the economics of the COVID-19 pandemic. In 2022, I received the award for one of the best publications at the DIW Berlin. Since 2023, I am the father of a fabolous daughter. You can contact me via dgraeber [at] diw [dot] de.
