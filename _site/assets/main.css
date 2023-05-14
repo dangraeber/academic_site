@@ -4,7 +4,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 /** Basic styling */
 body {
   font-family: 'Source Sans Pro', sans-serif;
-  color: green /* #363636; /* grey color */
+  color: #008000 /* #363636; /* grey color */
 }
 
 }
