@@ -31,13 +31,6 @@ Due to recent conflicts and humanitarian issues, millions of people have sought 
 {: style="text-align: justify" }
 
 
-**"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer; revise and resubmit at Entrepreneurship Theory and Practice)
-
-{: style="text-align: justify" }
-
-*Abstract:* The disproportionate effect of the COVID-19 pandemic on entrepreneurs when compared to employees is a global phenomenon. While the differential economic hardship is well documented, less is known about the effects of COVID-19 on their mental health. Using representative, longitudinal survey data from Germany, we show that financial losses appear to be an important driver of negative changes in mental health. Moreover, in particular female entrepreneurs experience a substantial deterioration in their mental health, while most male entrepreneurs are getting through the pandemic without significant changes. Investigating mechanisms behind this gendered impact of the pandemic, we find that female entrepreneurs who are directly affected by government-imposed restrictions on doing business, experience considerably larger increases in the frequency of anxiety and depressive symptoms, as do those who face additional child-care burden resulting from the closure of schools. Lastly, we observe that high levels of resilience help both gender to better cope with the crisis. Policy measures should account for this variation in mental health effects by supporting the affected entrepreneurs with more predictable policy instruments.
-
-
 {: style="text-align: justify" }
 **"Hate is too great a burden to bear: Hate crimes and the mental health of refugees."** No. 1130. SOEPpapers on Multidisciplinary Panel Data Research, 2021. (with Felicitas Schikora) [Link to working paper](https://www.diw.de/de/diw_01.c.817746.de/publikationen/soeppapers/2021_1130/hate_is_too_great_a_burden_to_bear__hate_crimes_and_the_mental_health_of_refugees.html)
 
