@@ -14,6 +14,20 @@ title: "Work in Progress"
 
 *Abstract:*  	We use 25 years of rich health information to describe three features of intergenerational health mobility in Germany. First, we describe the joint permanent health distribution of the parents and their children. A ten percentile increase in parental permanent health is associated with a 2.3 percentile increase in their child's health. Second, a percentile point increase in permanent health ranks is associated with a 0.8% to 1.4% increase in permanent income. Non-linearities in the association between health and income create incentives to escape the bottom of the permanent health distribution. Third, upward mobility in health varies with parental socio-economic status.
 
+
+**"The effect of terror on risk attitudes"** (with Lorenz Meister and Neil Murray)
+
+{: style="text-align: justify" }
+
+*Abstract:* Terror attacks cause high economic costs for the affected population. The indirect economic impact of terrorism is much more difficult to assess, as estimates are based on counterfactual scenarios and relevant data is often missing. In this paper, we argue that conventional studies are missing one important channel: costly behavioral responses. We show that terrorism impacts risk attitudes of individuals that were in the same region at the time of an attack. We use a staggered difference-in-differences (DiD) design (Callaway & Sant’Anna, 2021), comparing individuals living in counties that were exposed to terrorist attacks and those that were not. We find that happiness is a potential mediator in the relationship between exposure to terror attacks and individuals' risk attitudes. We contribute to the literature on the economics of crime and on the formation of preferences in general.
+
+**"Restrictions to civil liberties in a pandemic and satisfaction with democracy"** (with Lorenz Meister and Panu Poutvaara)
+
+{: style="text-align: justify" }
+
+*Abstract:* Unexpected crises, such as armed conflicts, natural disasters and pandemics require immediate government interventions to protect the population. In democracies, policy makers need to balance the effectiveness of their intervention with respect for civil liberties, such as the freedom of movement and the right to privacy. What determines citizens' political approval of restrictive state interventions in a crisis? When does an intervention appear appropriate and when does it raise political concerns? To answer this question, we explore the early moments of the COVID-19 pandemic in Germany, a crisis that especially highlighted tension between civil liberties and public health objectives. We exploit variation in mobility restrictions across states to estimate a difference-in-differences (DID) model and a DID-event study analysis. Our results show that stay-at-home orders increased individuals' satisfaction with democracy by 18\% of a standard deviation. Turning to the mechanism, we show that the effect strongly depends on (i) the perceived health threat and (ii) past exposure to an authoritarian regime. Our study relates to the economic literature on the perception of public policies and the change of attitudes and preferences in times of crises.
+
+
 **"The effect of maternal education on offspring’s mental health."** No. 1028. SOEPpapers on Multidisciplinary Panel Data Research, 2021. (with Daniel D. Schnitzlein; under review) [Link to outdated working paper](https://www.diw.de/documents/publikationen/73/diw_01.c.617185.de/diw_sp1028.pdf)
 
 {: style="text-align: justify" }

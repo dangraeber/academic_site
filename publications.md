@@ -5,7 +5,7 @@ title: "Publications"
 
 # Economics
 
-**"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (forthcoming). Entrepreneurship Theory & Practice. (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
+**"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (2023). Entrepreneurship Theory & Practice, 47(3): 788–830 (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
 
 {: style="text-align: justify" }
 
@@ -33,7 +33,7 @@ PLoS ONE. https://doi.org/10.1371/journal.pone.0248372 (with C. Schmidt-Petri an
 {: style="text-align: justify" }
 
 **"Social Norms and Preventive Behaviors in Japan and Germany During the COVID-19 Pandemic"** (2022).
-Frontiers in Public Health, 582. (with C. Schmidt-Petri, T. Rieger and C. Schroeder)
+Frontiers in Public Health, 10:842177. doi: 10.3389/fpubh.2022.842177. (with C. Schmidt-Petri, T. Rieger and C. Schroeder)
 
 {: style="text-align: justify" }
 
@@ -43,4 +43,4 @@ Methods: We compared preventive attitudes and behaviors in 2020 based on real-ti
 
 # Publications in collections
 
-**"Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige"** (2022). Jahrbuch Oekonomie und Gesellschaft, 33. (with A. Kritikos and J. Seebauer) 
+**"Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige"** (2022). Jahrbuch Oekonomie und Gesellschaft, 33. (with A. Kritikos and J. Seebauer)  	
