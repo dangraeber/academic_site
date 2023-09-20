@@ -21,8 +21,7 @@
 title: Daniel Graeber
 email: dgraeber@diw.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Daniel Graeber's webpage. Daniel is interested in health economics,
-  economics of migration and intergenerational mobility. He is a
+  Daniel Graeber's webpage. Daniel is interested in health economics, intergenerational mobility, and the formation of risk preferences. He is a
   postdoctoral researcher at the DIW Berlin.
 baseurl: "/academic_site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
