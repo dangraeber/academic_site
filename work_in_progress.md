@@ -8,7 +8,7 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
-**"Intergenerational Health Mobility in Germany"** (sole authored, submitted) [Link to IZA Discussion Paper] (https://docs.iza.org/dp16488.pdf)
+**"Intergenerational Health Mobility in Germany"** (sole authored, submitted) [Link to IZA Discussion Paper](https://docs.iza.org/dp16488.pdf)
 
 {: style="text-align: justify" }
 
@@ -16,15 +16,19 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
-**"Inequality of opportunity in wealth: levels, trends, and drivers"** (with Viola Hilbert and Johannes Koenig) [Link to IZA Discussion Paper] (https://docs.iza.org/dp16488.pdf)
+**"Inequality of opportunity in wealth: levels, trends, and drivers"** (with Viola Hilbert and Johannes Koenig) [Link to IZA Discussion Paper](https://docs.iza.org/dp16488.pdf)
 
 {: style="text-align: justify" }
 
-**"Restrictions to civil liberties in a pandemic and satisfaction with democracy"** (with Lorenz Meister and Panu Poutvaara)[Link to CESifo Working Paper, resubmitted] (https://www.cesifo.org/DocDL/cesifo1_wp10875.pdf)
+**"Restrictions to civil liberties in a pandemic and satisfaction with democracy"** (with Lorenz Meister and Panu Poutvaara) [Link to CESifo Working Paper, resubmitted](https://www.cesifo.org/DocDL/cesifo1_wp10875.pdf)
 
 {: style="text-align: justify" }
 
-**Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany** (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews, resubmitted)
+**"Navigating uncertainty: do Communicable diseases influence risk preferences?"** (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer)[manuscript, submitted]({{ site.url }}/assets/covid_risk.pdf)
+
+{: style="text-align: justify" }
+
+**Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany** (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews)[manuscript, resubmitted]({{ site.url }}/assets/covid_env_pref.pdf)
 
 {: style="text-align: justify" }
 
