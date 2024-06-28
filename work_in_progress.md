@@ -24,11 +24,11 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
-**"Navigating uncertainty: do Communicable diseases influence risk preferences?"** (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer)[manuscript, submitted]({{ site.url }}/assets/covid_risk.pdf)
+**"Navigating uncertainty: do Communicable diseases influence risk preferences?"** (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer) [manuscript, submitted](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_risk.pdf)
 
 {: style="text-align: justify" }
 
-**Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany** (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews)[manuscript, resubmitted]({{ site.url }}/assets/covid_env_pref.pdf)
+**Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany** (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews) [manuscript, resubmitted](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_env_pref.pdf)
 
 {: style="text-align: justify" }
 
