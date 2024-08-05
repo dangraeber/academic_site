@@ -10,10 +10,11 @@ Here, I share some summaries, notes and findings. I am currently not teaching. A
 
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
   {% for post in site.posts %}
-    <li style="display: inline-block; margin-bottom: 10px;">
-      <h4 style="margin: 0; display: inline;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-      <span style="display: inline;">{{ post.excerpt }}</span>
+    <li style="margin-bottom: 20px; list-style-type: none;">
+      <h4 style="margin: 0; display: inline-block; margin-right: 10px;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+      <span style="display: inline-block; margin-top: 5px;">{{ post.excerpt }}</span>
     </li>
   {% endfor %}
 </ul>
+
 
