@@ -4,17 +4,15 @@ title: Blog
 ---
 <h1 style="color:MediumSeaGreen;">Research Blog</h1>
 
-
-Here, I share some summaries, notes and findings. I am currently not teaching. And teaching and writing helps me to reflect and digest new information. Therefore, I share some insights at this place. Maybe this is helpful for others too.
-
 <p align="justify">
+Here, I share some summaries, notes and findings. I am currently not teaching. And teaching and writing helps me to reflect and digest new information. Therefore, I share some insights at this place. Maybe this is helpful for others too.
+</p>
 
+<ul style="list-style-position: inside; padding-left: 0; margin-left: 0; list-style-type: none;">
   {% for post in site.posts %}
-    <li>
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+    <li style="display: inline;">
+      <h4 style="display: inline;"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
       {{ post.excerpt }}
-
     </li>
   {% endfor %}
-</p>
 </ul>
