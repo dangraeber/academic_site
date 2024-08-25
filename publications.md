@@ -5,11 +5,16 @@ title: "Publications"
 
 # Economics
 
+![Book logo](/assets/ejpe.jpg)
+
 **"Restrictions to civil liberties in a pandemic and satisfaction with democracy"** (2024, online first). European Journal of Political Economy (with Lorenz Meister and Panu Poutvaara)
 
 {: style="text-align: justify" }
 
-The study finds that during the early COVID-19 pandemic, German states' stay-at-home orders increased satisfaction with democracy and shifted political support toward centrist parties, especially among those with experience under the former East German regime.
+The study finds that during the early COVID-19 pandemic, German states' stay-at-home orders increased satisfaction with democracy and shifted political support toward centrist parties, especially among those with experience under the former East German regime. <details>
+  <summary>Details</summary>
+  In times of crises, democracies face the challenge of balancing effective interventions with civil liberties. This study examines German states’ responses during the early stages of the COVID-19 pandemic, focusing on the trade-off between civil liberties and public health. Using state-level variation in mobility restrictions, we employ a difference-in-differences design to show that stay-at-home orders notably increased satisfaction with democracy and shifted political support towards centrist parties. Stay-at-home orders increased satisfaction with democracy most among individuals who had been exposed to the authoritarian regime of the German Democratic Republic, possibly because they have gotten used to more restrictive state interventions.
+</details>
 
 **"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (2023). Entrepreneurship Theory & Practice, 47(3): 788–830 (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
 
