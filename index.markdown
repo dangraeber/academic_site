@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-![image]({{site.baseurl }}/assets/profile.jpg){: style="float: left"; width: 200}
+![image]({{site.baseurl }}/assets/profile.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
  **Welcome to my webpage!**
 
@@ -17,6 +17,8 @@ Google scholar (June, 2024):
 * Citations: 765
 * h-index: 12
 * i10-index: 14
+
+{: style="text-align: justify" }
 
 I am a postdoctoral researcher in the [SOEP](https://www.diw.de/en/diw_01.c.615551.en/research_infrastructure__socio-economic_panel__soep.html) department at [DIW Berlin](https://www.diw.de/en), as well as a Research Affiliate at [IZA Bonn](https://www.iza.org/de) and a Senior Member at the [Center for Economic Policy Analysis (CEPA)](https://uni-potsdam.de/en/cepa/welcome-to-cepa). At the SOEP, my research focus is on well-being. As a behavioral economist, my work primarily explores health economics, well-being, and the development of risk preferences. I also have a keen interest in the economics of entrepreneurship. My research has been featured in esteemed journals such as *Entrepreneurship, Theory and Practice (IF = 10.5)*, *Journal of Population Economics (IF = 6.5)*, and *PLOS ONE (IF = 3.7)*. In 2022, I was honored with an award for one of the best publications at DIW Berlin. You can reach me at dgraeber [at] diw [dot] de.
 
