@@ -3,8 +3,6 @@ layout: "page"
 title: "Publications"
 ---
 
-# Economics
-
 ![EJPE](/assets/ejpe.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
 **"Restrictions to civil liberties in a pandemic and satisfaction with democracy"** (2024, online first). European Journal of Political Economy (with Lorenz Meister and Panu Poutvaara)
