@@ -16,6 +16,7 @@ During the early COVID-19 pandemic, German states' stay-at-home orders increased
 <details><summary>Details</summary>
   In times of crises, democracies face the challenge of balancing effective interventions with civil liberties. This study examines German states’ responses during the early stages of the COVID-19 pandemic, focusing on the trade-off between civil liberties and public health. Using state-level variation in mobility restrictions, we employ a difference-in-differences design to show that stay-at-home orders notably increased satisfaction with democracy and shifted political support towards centrist parties. Stay-at-home orders increased satisfaction with democracy most among individuals who had been exposed to the authoritarian regime of the German Democratic Republic, possibly because they have gotten used to more restrictive state interventions. </details><br />
 
+  ![ETP](/assets/etp.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
 **"Pandemic depression: COVID-19 and the mental health of entrepreneurs"** (2023). Entrepreneurship Theory & Practice, 47(3): 788–830 (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)
 
@@ -26,8 +27,7 @@ The COVID-19 pandemic worsened the mental health of self-employed women in Germa
 <details><summary>Details</summary>
 We investigate the effect of the COVID-19 pandemic on self-employed people’s mental health. Using representative longitudinal survey data from Germany, we reveal differential effects by gender: whereas self-employed women experienced a substantial deterioration in their mental health, self-employed men displayed no significant changes up to early 2021. Financial losses are important in explaining these differences. In addition, we find larger mental health responses among self-employed women who were directly affected by government-imposed restrictions and bore an increased childcare burden due to school and daycare closures. We also find that self-employed individuals who are more resilient coped better with the crisis.</details><br />
 
-
-
+  ![JPE](/assets/jpe_selfemp_covid.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
 {: style="text-align: justify" }
 
@@ -40,9 +40,10 @@ The pandemic caused greater income losses for self-employed women in Germany tha
 <details><summary>Details</summary>
 We investigate how the economic consequences of the pandemic and the government-mandated measures to contain its spread affect the self-employed — particularly women — in Germany. For our analysis, we use representative, real-time survey data in which respondents were asked about their situation during the COVID-19 pandemic. Our findings indicate that among the self-employed, who generally face a higher likelihood of income losses due to COVID-19 than employees, women are about one-third more likely to experience income losses than their male counterparts. We do not find a comparable gender gap among employees. Our results further suggest that the gender gap among the self-employed is largely explained by the fact that women disproportionately work in industries that are more severely affected by the COVID-19 pandemic. Our analysis of potential mechanisms reveals that women are significantly more likely to be impacted by government-imposed restrictions, e.g., the regulation of opening hours. We conclude that future policy measures intending to mitigate the consequences of such shocks should account for this considerable variation in economic hardship.</details><br />
 
-# Interdisciplinary Journals
 
 {: style="text-align: justify" }
+
+  ![PLOS ONE](/assets/plos_one.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
 **"Attitudes on voluntary and mandatory vaccination against COVID-19: evidence from Germany"** (2021). PLoS ONE. https://doi.org/10.1371/journal.pone.0248372 (with C. Schmidt-Petri and C. Schroeder)
 
@@ -55,6 +56,8 @@ Several vaccines against COVID-19 have now been developed and are already being 
 
 {: style="text-align: justify" }
 
+  ![Frontiers](/assets/frontiers.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
+
 **"Social Norms and Preventive Behaviors in Japan and Germany During the COVID-19 Pandemic"** (2022). Frontiers in Public Health, 10:842177. doi: 10.3389/fpubh.2022.842177. (with C. Schmidt-Petri, T. Rieger and C. Schroeder)
 
 {: style="text-align: justify" }
@@ -65,5 +68,7 @@ The study shows that Japanese people exhibit higher willingness to get vaccinate
 According to a recent paper by Gelfand et al., COVID-19 infection and case mortality rates are closely connected to the strength of social norms: “Tighter” cultures that abide by strict social norms are more successful in combating the pandemic than “looser” cultures that are more permissive. However, countries with similar levels of cultural tightness exhibit big differences in mortality rates. We are investigating potential explanations for this fact. Using data from Germany and Japan—two “tight” countries with very different infection and mortality rates—we examined how differences in socio-demographic and other determinants explain differences in individual preventive attitudes and behaviors.</details><br />
 
 # Publications in collections
+
+  ![Jahrbuch](/assets/jahrbuch.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
 **"Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige"** (2022). Jahrbuch Oekonomie und Gesellschaft, 33. (with A. Kritikos and J. Seebauer)  	
