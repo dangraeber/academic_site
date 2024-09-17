@@ -36,7 +36,7 @@ title: "Work in Progress"
 
 **"The life-cycle of entrepreneurship"** (with Christina Guenther, Julia de Groote, Alexander Kritikos and Caroline Stiel, draft available)
 
-**''The effects Of environmental beliefs and knowledge on policy preferences and expected behaviors''**'' (with Julia Berazneva, Peter Hans Matthews, Sven Hartmann, and Michelle McCauley, AEA RCT Registry: https://doi.org/10.1257/rct.11286-1.0)
+**''The effects Of environmental beliefs and knowledge on policy preferences and expected behaviors''** (with Julia Berazneva, Peter Hans Matthews, Sven Hartmann, and Michelle McCauley, AEA RCT Registry: https://doi.org/10.1257/rct.11286-1.0)
 
 {: style="text-align: justify" }
 
