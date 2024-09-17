@@ -37,6 +37,8 @@ of California, San Diego, CA (2019)
 
 ## Teaching experience
 
+**University of Potsdam** (2022)
+* Education, Labour, and Health Economics: Applications with the German Socio-Economic Panel (SOEP)
 **University of Turku** (2019)
 * SOEP Campus
 
@@ -54,8 +56,11 @@ of California, San Diego, CA (2019)
 
 ## Presentations
 
-**Invited** PhD Seminar: Labor Economics, Chair of Microeconometrics, University of Hamburg (2017).
-Seminar on Statistics and Econometrics, Institute for Statistics & Econometrics, CAU Kiel (2019).
+**Invited** PhD Seminar: Labor Economics, Chair of Microeconometrics, University of Hamburg (2017). Seminar on Statistics and Econometrics, Institute for Statistics and Econometrics, CAU Kiel (2019). Institute for the World Economy (IfW Kiel), Kiel (2021). University of Trier, Trier (2023).
+
+**2023** Annual Meeting of the German Economic Association, Regensburg, Germany.
+
+**2022** Annual Meeting of the dggö, Hamburg; European Social Science Genomics Network Conference, Bologna, Italy; ESPE Annual Conference, Calabria, Italy; Annual Congress of the European Economic Association, Milan, Italy.
 
 **2021** ASSA Meeting, virtual; SEEK-Workshop on “Social Mobility and Economic Performance”, ZEW
 Mannheim; ifo Workshop on “Opportunities, Mobility and Well-Being”, ifo Institute Munich; ESPE
