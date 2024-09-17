@@ -8,7 +8,7 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
-**"Intergenerational Health Mobility in Germany"** (sole authored, submitted) [Link to IZA Discussion Paper](https://docs.iza.org/dp16567.pdf)
+**"Intergenerational Health Mobility in Germany"** (sole authored, submitted) [Link to IZA Discussion Paper, under review](https://docs.iza.org/dp16567.pdf)
 
 {: style="text-align: justify" }
 
@@ -21,20 +21,11 @@ title: "Work in Progress"
 {: style="text-align: justify" }
 
 
-**"Navigating uncertainty: do Communicable diseases influence risk preferences?"** (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer) [manuscript, submitted](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_risk.pdf)
+**"Navigating uncertainty: do communicable diseases influence risk preferences?"** (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer) [manuscript, under review](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_risk.pdf)
 
 {: style="text-align: justify" }
 
-**Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany** (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews) [manuscript, resubmitted](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_env_pref.pdf)
-
-{: style="text-align: justify" }
-
-**"The effect of maternal education on offspring’s mental health"** (with Daniel D. Schnitzlein; under review) [Link to outdated SOEPpaper](https://www.diw.de/documents/publikationen/73/diw_01.c.617185.de/diw_sp1028.pdf)
-
-{: style="text-align: justify" }
-
-**"Asylum seekers and host country mental health: evidence from Germany and Switzerland"** (with Prashant Bharadwaj and Stephanie Khoury) [Link to working paper](https://www.dropbox.com/s/k0h4xn4fu2npzu8/20200521_asylum_MH%20%281%29.pdf?dl=0)
-
+**Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany** (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews) [manuscript, conditionally accepted](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_env_pref.pdf)
 
 
 {: style="text-align: justify" }
@@ -43,18 +34,14 @@ title: "Work in Progress"
 
 {: style="text-align: justify" }
 
-**"The effect of terror on risk attitudes"** (with Lorenz Meister and Neil Murray, draft available)
-
-{: style="text-align: justify" }
-
 **"The life-cycle of entrepreneurship"** (with Christina Guenther, Julia de Groote, Alexander Kritikos and Caroline Stiel, draft available)
 
-{: style="text-align: justify" }
-
-**"Intersectionality and entrepreneurship"** (with Christina Guenther, Julia de Groote, Alexander Kritikos and Tana Maneein, preregistration phase)
+**''The effects Of environmental beliefs and knowledge on policy preferences and expected behaviors''**'' (with Julia Berazneva, Peter Hans Matthews, Sven Hartmann, and Michelle McCauley, AEA RCT Registry: https://doi.org/10.1257/rct.11286-1.0)
 
 {: style="text-align: justify" }
 
-**"Parental risk attitudes and children’s health at birth"** (with Lewe Bahnsen, draft available)
+**"The effect of terror on risk preferences"** (with Lorenz Meister and Neil Murray, draft available)
 
 {: style="text-align: justify" }
+
+**"Genes, education and economic preferences"** (with Tanaporn Maneein and Carsten Schröder)

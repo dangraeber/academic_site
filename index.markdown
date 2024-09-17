@@ -7,16 +7,16 @@ layout: page
 ---
 
 
-![image]({{site.baseurl }}/assets/profile.jpg){: width="300" style="display:block; margin-left:auto; margin-right:auto;" }
+![image]({{site.baseurl }}/assets/profile2.jpg){: width="300" style="display:block; margin-left:auto; margin-right:auto;" }
 
  **Welcome to my webpage!**
 
  {: style="text-align: justify" }
 
-Google scholar (June, 2024):
-* Citations: 765
-* h-index: 12
-* i10-index: 14
+Google scholar (September, 2024):
+* Citations: 803
+* h-index: 13
+* i10-index: 15
 
 {: style="text-align: justify" }
 
