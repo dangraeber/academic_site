@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-![image]({{site.baseurl }}/assets/profile2.jpg){: width="300" style="display:block; margin-left:auto; margin-right:auto;" }
+![image]({{site.baseurl }}/assets/profile2.JPG){: width="300" style="display:block; margin-left:auto; margin-right:auto;" }
 
  **Welcome to my webpage!**
 
