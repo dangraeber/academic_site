@@ -7,7 +7,7 @@ title: "Publications"
   <!-- First Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/jebo.jpg" alt="SR" width="200" />
+      <img src="{{ site.baseurl }}/assets/jebo.jpg" alt="SR" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany" (2024).</strong> Journal of Economic Behavior & Organization (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews)</p>
@@ -22,7 +22,7 @@ title: "Publications"
   <!-- Second Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/reports.jpg" alt="SR" width="200" />
+      <img src="{{ site.baseurl }}/assets/reports.jpg" alt="SR" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Reconsidering inequalities in COVID-19 vaccine uptake in Germany: a spatiotemporal analysis combining individual educational level and area-level socioeconomic deprivation" (2024).</strong> Scientific Reports (with Marvin Reis, Niels Michalski, Susanne Bartig, Elisa Wulkotte, Christina Poethko-Müller, Angelika Schaffrath Rosario, Claudia Hövener and Jens Hoebel)</p>
@@ -37,7 +37,7 @@ title: "Publications"
   <!-- Third Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/ejpe.jpg" alt="EJPE" width="200" />
+      <img src="{{ site.baseurl }}/assets/ejpe.jpg" alt="EJPE" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Restrictions to civil liberties in a pandemic and satisfaction with democracy" (2024, online first).</strong> European Journal of Political Economy (with Lorenz Meister and Panu Poutvaara)</p>
@@ -52,7 +52,7 @@ title: "Publications"
   <!-- Fourth Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/etp.jpg" alt="ETP" width="200" />
+      <img src="{{ site.baseurl }}/assets/etp.jpg" alt="ETP" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Pandemic depression: COVID-19 and the mental health of entrepreneurs" (2023).</strong> Entrepreneurship Theory & Practice, 47(3): 788–830 (with Marco Caliendo, Alexander Kritikos and Johannes Seebauer)</p>
@@ -67,7 +67,7 @@ title: "Publications"
   <!-- Fifth Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/jpe_selfemp_covid.jpg" alt="JPE" width="200" />
+      <img src="{{ site.baseurl }}/assets/jpe_selfemp_covid.jpg" alt="JPE" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"COVID-19: a crisis of the female self-employed" (2021).</strong> Journal of Population Economics, 34: 1141–118. <a href="https://doi.org/10.1007/s00148-021-00849-y">https://doi.org/10.1007/s00148-021-00849-y</a> (with A. Kritikos and J. Seebauer)</p>
@@ -82,7 +82,7 @@ title: "Publications"
   <!-- Sixth Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/plos_one.jpg" alt="PLOS ONE" width="200" />
+      <img src="{{ site.baseurl }}/assets/plos_one.jpg" alt="PLOS ONE" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Attitudes on voluntary and mandatory vaccination against COVID-19: evidence from Germany" (2021).</strong> PLoS ONE. <a href="https://doi.org/10.1371/journal.pone.0248372">https://doi.org/10.1371/journal.pone.0248372</a> (with C. Schmidt-Petri and C. Schroeder)</p>
@@ -97,7 +97,7 @@ title: "Publications"
   <!-- Seventh Publication -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/frontiers.jpg" alt="Frontiers" width="200" />
+      <img src="{{ site.baseurl }}/assets/frontiers.jpg" alt="Frontiers" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Social Norms and Preventive Behaviors in Japan and Germany During the COVID-19 Pandemic" (2022).</strong> Frontiers in Public Health, 10:842177. <a href="https://doi.org/10.3389/fpubh.2022.842177">doi: 10.3389/fpubh.2022.842177</a> (with C. Schmidt-Petri, T. Rieger and C. Schroeder)</p>
@@ -112,7 +112,7 @@ title: "Publications"
   <!-- Publications in Collections -->
   <div class="publication-entry">
     <div class="image-column">
-      <img src="/assets/jahrbuch.jpg" alt="Jahrbuch" width="200" />
+      <img src="{{ site.baseurl }}/assets/jahrbuch.jpg" alt="Jahrbuch" width="200" />
     </div>
     <div class="text-column">
       <p><strong>"Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige" (2022).</strong> Jahrbuch Oekonomie und Gesellschaft, 33. (with A. Kritikos and J. Seebauer)</p>
