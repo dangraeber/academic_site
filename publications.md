@@ -3,6 +3,30 @@ layout: "page"
 title: "Publications"
 ---
 
+![SR](/assets/jebo.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
+
+**"Moral bandwidth and environmental concerns during a public health crisis: Evidence from Germany"** (2024). Journal of Economic Behavior & Organization (with Julia Berazneva, Michelle McCauley, Sabine Zinn and Peter Hans Matthews)
+
+{: style="text-align: justify" }
+
+Former chancellor Merkel's speech to the German nation during a public health crises increased economic concerns but did not change concerns about the environment or climate.
+
+<details><summary>Details</summary>
+Did the COVID-19 pandemic crowd out environmental concerns, as one might expect if “pools of worry” were finite or “moral bandwidth” was limited? We use Chancellor Angela Merkel’s address to the German nation on 18 March 2020 as the threshold in a regression discontinuity in time (RDiT) to evaluate the effects of an increase in COVID-based economic and health concerns on the climate and environmental concerns of respondents to the German Socio-Economic Panel (SOEP). We find no evidence of crowding out – there is even some indication that environmental concerns increased, especially on the intensive margin – and show that this result survives various robustness checks. We also share some evidence that the treatment effects are heterogeneous: the concerns of older and more patient Germans, as well as those who report more social trust, increased relative to other groups. This is consistent with the absence of bandwidth constraints, but other interpretations – hierarchical or complementary concerns, for example – are also possible. </details><br />
+
+![SR](/assets/reports.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
+
+**"Reconsidering inequalities in COVID-19 vaccine uptake in Germany: a spatiotemporal analysis combining individual educational level and area-level socioeconomic deprivation"** (2024). Scientific Reports (with Marvin Reis, Niels Michalski, Susanne Bartig, Elisa Wulkotte, Christina Poethko-Müller, Angelika Schaffrath Rosario, Claudia Hövener and Jens Hoebel)
+
+{: style="text-align: justify" }
+
+Educational differences in the up-take of COVID-19 vaccinations were amplified by local socio-economic deprivation.
+
+<details><summary>Details</summary>
+  Combining the frameworks of fundamental causes theory and diffusion of innovation, scholars had anticipated a delayed COVID-19 vaccination uptake for people in lower socioeconomic position depending on the socioeconomic context. We qualify these propositions and analyze educational differences in COVID-19 vaccination status over the first ten months of Germany’s vaccination campaign in 2021. Data from the study “Corona Monitoring Nationwide” (RKI-SOEP-2), collected between November 2021 and February 2022, is linked with district-level data of the German Index of Socioeconomic Deprivation (GISD). We estimated the proportion of people with at least one vaccination dose stratified by educational groups and within different settings of regional socioeconomic deprivation at three time points. Logistic multilevel regression models were applied to adjust for multiple covariates and to test cross-level-interactions between educational levels and levels of area-level socioeconomic deprivation. Vaccination rates were lower among respondents with lower education. With increasing area-level socioeconomic deprivation, educational differences were larger due to particularly low vaccination rates in groups with low education levels. The analysis of vaccination timing reveals that educational gaps and gaps by area-level socioeconomic deprivation had appeared early in the vaccination campaign and did not close completely before the 4th wave of COVID-19 infections. </details><br />
+
+
+
 ![EJPE](/assets/ejpe.jpg){: width="200" style="display:block; margin-left:auto; margin-right:auto;" }
 
 **"Restrictions to civil liberties in a pandemic and satisfaction with democracy"** (2024, online first). European Journal of Political Economy (with Lorenz Meister and Panu Poutvaara)
