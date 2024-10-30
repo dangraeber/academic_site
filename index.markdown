@@ -44,9 +44,13 @@ layout: page
       You can reach me at dgraeber [at] diw [dot] de.
     </p>
 
-    <p>
-      Since 2023, I am the proud father of a wonderful daughter. I took paternal leave from November 9, 2023, to May 8, 2024.
-    </p>
+    <p>Google Scholar (September 2024):</p>
+    <ul>
+      <li>Citations: 803</li>
+      <li>h-index: 13</li>
+      <li>i10-index: 15</li>
+    </ul>
+
   </div>
 
   <div>
