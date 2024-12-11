@@ -54,6 +54,6 @@ layout: page
   </div>
 
   <div>
-    <img src="{{site.baseurl}}/assets/profile2.JPG" alt="Profile Picture">
+    <img src="{{site.baseurl}}/assets/DGraeber.jpg" alt="Profile Picture">
   </div>
 </div>
