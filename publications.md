@@ -100,7 +100,7 @@ title: "Publications"
       <img src="{{ site.baseurl }}/assets/frontiers.jpg" alt="Frontiers" width="200" />
     </div>
     <div class="text-column">
-      <p><strong>"Social Norms and Preventive Behaviors in Japan and Germany During the COVID-19 Pandemic" (2022).</strong> Frontiers in Public Health, 10:842177. <a href="https://doi.org/10.3389/fpubh.2022.842177">doi: 10.3389/fpubh.2022.842177</a> (with C. Schmidt-Petri, T. Rieger and C. Schroeder)</p>
+      <p><strong>"Social Norms and Preventive Behaviors in Japan and Germany During the COVID-19 Pandemic" (2022).</strong> Frontiers in Public Health, 10:842177. <a href="https://doi.org/10.3389/fpubh.2022.842177">doi: 10.3389/fpubh.2022.842177</a> (with C. Schmidt-Petri, <a href="https://sites.google.com/view/thomasrieger/home/" ­target="_blank"­>T. Rieger</a> and C. Schroeder)</p>
       <p>The study shows that Japanese people exhibit higher willingness to get vaccinated against COVID-19 compared to Germans, despite similar engagement in preventive measures.</p>
       <details>
         <summary>Details</summary>
