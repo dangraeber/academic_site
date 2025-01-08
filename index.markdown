@@ -1,7 +1,3 @@
----
-layout: page
----
-
 <style>
   .container {
     display: grid;
@@ -10,8 +6,8 @@ layout: page
     align-items: start;
   }
   .container img {
-    max-width: 100%;
-    height: auto;
+    max-width: 200%; /* Doubled the size */
+    height: auto; /* Maintains aspect ratio */
   }
   .text-content {
     text-align: justify;
@@ -57,3 +53,4 @@ layout: page
     <img src="{{site.baseurl}}/assets/dgraeber_assa_2025.jpg" alt="Profile Picture">
   </div>
 </div>
+
