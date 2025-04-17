@@ -1,24 +1,24 @@
----
-layout: page
----
-
 <style>
   .container {
-    display: grid;
-    grid-template-columns: 1fr 300px;
+    display: flex;
+    flex-direction: column; /* Change layout to column */
+    align-items: center; /* Center the content */
     gap: 20px;
-    align-items: start;
   }
   .container img {
-    max-width: 100%;
-    height: auto;
+    max-width: 100%; /* Align width with text content */
+    height: auto; /* Maintain aspect ratio */
   }
   .text-content {
     text-align: justify;
+    width: 100%; /* Match width with the container */
   }
 </style>
 
 <div class="container">
+  <div>
+    <img src="{{site.baseurl}}/assets/dgraeber_assa_2025.jpg" alt="Profile Picture">
+  </div>
   <div class="text-content">
     <h2>Welcome to my webpage!</h2>
 
@@ -50,10 +50,6 @@ layout: page
       <li>h-index: 13</li>
       <li>i10-index: 15</li>
     </ul>
-
-  </div>
-
-  <div>
-    <img src="{{site.baseurl}}/assets/profile2.JPG" alt="Profile Picture">
   </div>
 </div>
+
