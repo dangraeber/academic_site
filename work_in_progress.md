@@ -6,6 +6,12 @@ title: "Work in Progress"
 
 # Working Papers
 
+
+{: style="text-align: justify" }
+
+**"Asylum Seekers and Host Country Mental Health:
+Evidence from Germany and Switzerland"** (with Prashant Bharadwaj, Stephanie Khoury and Christian Schmid) [Link to Discussion Paper, R&R at Journal of Development Economics](https://www.dropbox.com/scl/fi/upym4yq64q76n6mlyehn0/20200521_asylum_MH-1.pdf?rlkey=6blxwxysn1pgq7cqvaw7r26gu&e=1&dl=0)
+
 {: style="text-align: justify" }
 
 **"Intergenerational Health Mobility in Germany"** (sole authored, submitted) [Link to IZA Discussion Paper, under review](https://docs.iza.org/dp16567.pdf)
