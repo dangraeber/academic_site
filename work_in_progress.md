@@ -1,49 +1,78 @@
 ---
 layout: page
 title: "Work in Progress"
-
 ---
 
-# Working Papers
+<div class="work-container">
 
+  <h2>Working Papers</h2>
 
-{: style="text-align: justify" }
+  <div class="work-entry">
+    <p><strong>"Asylum Seekers and Host Country Mental Health: Evidence from Germany and Switzerland"</strong> (with Prashant Bharadwaj, Stephanie Khoury and Christian Schmid)<br>
+    <a href="https://www.dropbox.com/scl/fi/upym4yq64q76n6mlyehn0/20200521_asylum_MH-1.pdf?rlkey=6blxwxysn1pgq7cqvaw7r26gu&e=1&dl=0">Discussion Paper</a>, Revise & Resubmit at <em>Journal of Development Economics</em></p>
+  </div>
 
-**"Asylum Seekers and Host Country Mental Health:
-Evidence from Germany and Switzerland"** (with Prashant Bharadwaj, Stephanie Khoury and Christian Schmid) [Link to Discussion Paper, R&R at Journal of Development Economics](https://www.dropbox.com/scl/fi/upym4yq64q76n6mlyehn0/20200521_asylum_MH-1.pdf?rlkey=6blxwxysn1pgq7cqvaw7r26gu&e=1&dl=0)
+  <div class="work-entry">
+    <p><strong>"Intergenerational Health Mobility in Germany"</strong> (sole authored)<br>
+    <a href="https://docs.iza.org/dp16567.pdf">IZA Discussion Paper</a>, under review</p>
+  </div>
 
-{: style="text-align: justify" }
+  <div class="work-entry">
+    <p><strong>"Hate is too great a burden to bear: Hate crimes and the mental health of refugees"</strong> (with Felicitas Schikora)<br>
+    <a href="https://www.diw.de/de/diw_01.c.817746.de/publikationen/soeppapers/2021_1130/hate_is_too_great_a_burden_to_bear__hate_crimes_and_the_mental_health_of_refugees.html">SOEPpaper</a></p>
+  </div>
 
-**"Intergenerational Health Mobility in Germany"** (sole authored, submitted) [Link to IZA Discussion Paper, under review](https://docs.iza.org/dp16567.pdf)
+  <div class="work-entry">
+    <p><strong>"Inequality of opportunity in wealth: levels, trends, and drivers"</strong> (with Viola Hilbert and Johannes Koenig)<br>
+    <a href="https://docs.iza.org/dp16488.pdf">IZA Discussion Paper</a></p>
+  </div>
 
-{: style="text-align: justify" }
+  <div class="work-entry">
+    <p><strong>"Navigating uncertainty: do communicable diseases influence risk preferences?"</strong> (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer)<br>
+    <a href="https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_risk.pdf">Manuscript</a>, under review</p>
+  </div>
 
-**"Hate is too great a burden to bear: Hate crimes and the mental health of refugees"** (with Felicitas Schikora) [Link to SOEPpaper](https://www.diw.de/de/diw_01.c.817746.de/publikationen/soeppapers/2021_1130/hate_is_too_great_a_burden_to_bear__hate_crimes_and_the_mental_health_of_refugees.html)
+  <h2>Work in Progress</h2>
 
-{: style="text-align: justify" }
+  <div class="work-entry">
+    <p><strong>"The life-cycle of entrepreneurship"</strong> (with Christina Guenther, Julia de Groote, Alexander Kritikos and Caroline Stiel)<br>
+    Draft available</p>
+  </div>
 
-**"Inequality of opportunity in wealth: levels, trends, and drivers"** (with Viola Hilbert and Johannes Koenig) [Link to IZA Discussion Paper](https://docs.iza.org/dp16488.pdf)
+  <div class="work-entry">
+    <p><strong>"The effects of environmental beliefs and knowledge on policy preferences and expected behaviors"</strong> (with Julia Berazneva, Peter Hans Matthews, Sven Hartmann, and Michelle McCauley)<br>
+    Registered at <a href="https://doi.org/10.1257/rct.11286-1.0">AEA RCT Registry</a></p>
+  </div>
 
-{: style="text-align: justify" }
+  <div class="work-entry">
+    <p><strong>"The effect of terror on risk preferences"</strong> (with Lorenz Meister and Neil Murray)<br>
+    Draft available</p>
+  </div>
 
+  <div class="work-entry">
+    <p><strong>"Genes, education and economic preferences"</strong> (with Tanaporn Maneein and Carsten Schröder)</p>
+  </div>
 
-**"Navigating uncertainty: do communicable diseases influence risk preferences?"** (with Ulrich Schmidt, Carsten Schroeder and Johannes Seebauer) [manuscript, under review](https://github.com/dangraeber/academic_site/tree/gh-pages/assets/covid_risk.pdf)
+</div>
 
+<style>
+  .work-container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
 
-{: style="text-align: justify" }
+  .work-entry p {
+    text-align: justify;
+    margin-bottom: 0;
+  }
 
-# Work in Progress
+  .work-entry a {
+    color: #1a0dab;
+    text-decoration: underline;
+  }
 
-{: style="text-align: justify" }
-
-**"The life-cycle of entrepreneurship"** (with Christina Guenther, Julia de Groote, Alexander Kritikos and Caroline Stiel, draft available)
-
-**''The effects Of environmental beliefs and knowledge on policy preferences and expected behaviors''** (with Julia Berazneva, Peter Hans Matthews, Sven Hartmann, and Michelle McCauley, AEA RCT Registry: https://doi.org/10.1257/rct.11286-1.0)
-
-{: style="text-align: justify" }
-
-**"The effect of terror on risk preferences"** (with Lorenz Meister and Neil Murray, draft available)
-
-{: style="text-align: justify" }
-
-**"Genes, education and economic preferences"** (with Tanaporn Maneein and Carsten Schröder)
+  h2 {
+    margin-top: 40px;
+  }
+</style>
