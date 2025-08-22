@@ -7,10 +7,6 @@ title: "Work in Progress"
 
   <h2>Working Papers</h2>
 
-  <div class="work-entry">
-    <p><strong>"Asylum Seekers and Host Country Mental Health: Evidence from Germany and Switzerland"</strong> (with Prashant Bharadwaj, Stephanie Khoury and Christian Schmid)<br>
-    <a href="https://www.dropbox.com/scl/fi/upym4yq64q76n6mlyehn0/20200521_asylum_MH-1.pdf?rlkey=6blxwxysn1pgq7cqvaw7r26gu&e=1&dl=0">Discussion Paper</a>, Revise & Resubmit at <em>Journal of Development Economics</em></p>
-  </div>
 
   <div class="work-entry">
     <p><strong>"Intergenerational Health Mobility in Germany"</strong> (sole authored)<br>
@@ -34,15 +30,7 @@ title: "Work in Progress"
 
   <h2>Work in Progress</h2>
 
-  <div class="work-entry">
-    <p><strong>"The life-cycle of entrepreneurship"</strong> (with Christina Guenther, Julia de Groote, Alexander Kritikos and Caroline Stiel)<br>
-    Draft available</p>
-  </div>
 
-  <div class="work-entry">
-    <p><strong>"The effects of environmental beliefs and knowledge on policy preferences and expected behaviors"</strong> (with Julia Berazneva, Peter Hans Matthews, Sven Hartmann, and Michelle McCauley)<br>
-    Registered at <a href="https://doi.org/10.1257/rct.11286-1.0">AEA RCT Registry</a></p>
-  </div>
 
   <div class="work-entry">
     <p><strong>"The effect of terror on risk preferences"</strong> (with Lorenz Meister and Neil Murray)<br>
@@ -50,7 +38,7 @@ title: "Work in Progress"
   </div>
 
   <div class="work-entry">
-    <p><strong>"Genes, education and economic preferences"</strong> (with Tanaporn Maneein and Carsten Schröder)</p>
+    <p><strong>"Genes, Cognitive Skills, and Economic Preferences"</strong> (with Tanaporn Maneein and Carsten Schröder)</p>
   </div>
 
 </div>

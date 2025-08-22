@@ -49,7 +49,7 @@ permalink: /
       <a href="https://uni-potsdam.de/en/cepa/welcome-to-cepa">Center for Economic Policy Analysis (CEPA)</a>.
       At the SOEP, my research focuses on well-being. As a behavioral economist, my work primarily explores
       health economics, well-being, and the development of risk preferences. I also have a keen interest in the
-      economics of entrepreneurship. My research has been featured in esteemed journals such as
+      economics of entrepreneurship. My research has been featured in journals such as
       <em>Entrepreneurship Theory and Practice&nbsp;(IF = 10.5)</em>,
       <em>Journal of Population Economics&nbsp;(IF = 6.5)</em>, and
       <em>PLOS&nbsp;ONE&nbsp;(IF = 3.7)</em>. In 2022, I was honored with an award for one of the best
@@ -60,9 +60,9 @@ permalink: /
          otherwise feel free to delete the duplicate block below. -->
     <p><strong>Google&nbsp;Scholar (September&nbsp;2024):</strong></p>
     <ul>
-      <li>Citations: 803</li>
-      <li>h-index: 13</li>
-      <li>i10-index: 15</li>
+      <li>Citations: 954</li>
+      <li>h-index: 14</li>
+      <li>i10-index: 16</li>
     </ul>
   </div>
 </div>
