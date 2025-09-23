@@ -1,67 +1,105 @@
 ---
-layout: default          # any layout that does NOT loop through site.posts
+layout: default
 title: "Welcome"
 permalink: /
 ---
 
 <style>
-  .container {
+  .hero {
     display: flex;
-    flex-direction: column;   /* Stack image then text */
+    flex-wrap: wrap;
     align-items: center;
-    gap: 1.5rem;
-    max-width: 60rem;
-    margin: 0 auto;
+    justify-content: center;
+    gap: 2rem;
+    max-width: 70rem;
+    margin: 2rem auto;
+    padding: 1rem;
   }
 
-.container img {
-  max-width: 200px; /* caps image size */
-  width: 100%;      /* allows responsive shrinking */
-  height: auto;     /* keeps aspect ratio */
-}
-
-
-  .text-content {
-    text-align: justify;
+  .hero img {
+    max-width: 200px;
     width: 100%;
+    height: auto;
+  }
+
+  .hero-text {
+    flex: 1 1 300px;
+    text-align: left;
+  }
+
+  .section {
+    max-width: 70rem;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .publications-preview {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    background: #f9f9f9;
+  }
+
+  .publications-preview h3 {
+    margin-top: 0;
   }
 </style>
 
-<div class="container">
+<div class="hero">
   <div>
     <img src="{{ site.baseurl }}/assets/profile_edited.png"
          alt="Daniel Graeber profile picture">
   </div>
-
-  <div class="text-content">
-    <h2>Welcome!</h2>
-
-<p>I am:</p>
-<ul>
-  <li>Postdoctoral Researcher in the 
-    <a href="https://www.diw.de/en/diw_01.c.615551.en/research_infrastructure__socio-economic_panel__soep.html">SOEP</a> 
-    department at <a href="https://www.diw.de/en">DIW Berlin</a>
-  </li>
-  <li>Research Affiliate at <a href="https://www.iza.org/de">IZA Bonn</a></li>
-  <li>Senior Member at the 
-    <a href="https://uni-potsdam.de/en/cepa/welcome-to-cepa">Center for Economic Policy Analysis (CEPA)</a>
-  </li>
-</ul>
-
-
+  <div class="hero-text">
+    <h1>Daniel Graeber</h1>
     <p>
-      My research focuses on well-being, health economics, and risk preferences.
+      Postdoctoral Researcher in the 
+      <a href="https://www.diw.de/en/diw_01.c.615551.en/research_infrastructure__socio-economic_panel__soep.html">SOEP</a> 
+      department at <a href="https://www.diw.de/en">DIW Berlin</a> · 
+      Research Affiliate at <a href="https://www.iza.org/de">IZA Bonn</a> · 
+      Senior Member at the 
+      <a href="https://uni-potsdam.de/en/cepa/welcome-to-cepa">Center for Economic Policy Analysis (CEPA)</a>
     </p>
-
-    <p>
-      You can reach me at <code>dgraeber&nbsp;[at]&nbsp;diw&nbsp;[dot]&nbsp;de</code>.
-    </p>
-
-    <p><strong>Google Scholar (September&nbsp;2025):</strong></p>
-    <ul>
-      <li>Citations: 961</li>
-      <li>h-index: 14</li>
-      <li>i10-index: 16</li>
-    </ul>
+    <p><em>My research focuses on well-being, health economics, and risk preferences.</em></p>
   </div>
+</div>
+
+<div class="section">
+  <h2>About</h2>
+  <p>
+    I study how shocks and institutions affect health, subjective well-being, and economic behavior.
+    My work combines survey data, administrative health records, and quasi-experimental designs.
+  </p>
+</div>
+
+<div class="section">
+  <h2>Selected Recent Publication</h2>
+  <div class="publications-preview">
+    <p>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0304387825001300">
+        Asylum Seekers and Host Country Mental Health: Evidence from Germany and Switzerland
+      </a>
+    </p>
+    <p><strong>Journal of Development Economics</strong></p>
+    <p>with Prashant Bharadwaj, Sarah Khoury, and Christoph Schmid</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>
+        Due to recent conflicts and humanitarian issues, millions of people have sought asylum in Europe.
+        We study how asylum seeker inflows affect residents’ mental health in Germany and Switzerland.
+        Exploiting quasi-random placement, we find no economically meaningful effects.
+      </p>
+    </details>
+  </div>
+  <p><a href="{{ site.baseurl }}/publications">Full list of publications →</a></p>
+</div>
+
+<div class="section">
+  <h2>Contact</h2>
+  <p>Email: <code>dgraeber [at] diw [dot] de</code></p>
+  <p><strong>Google Scholar (September&nbsp;2025):</strong></p>
+  <ul>
+    <li>Citations: 9961</li>
+    <li>h-index: 14</li>
+    <li>i10-index: 16</li>
+  </ul>
 </div>
