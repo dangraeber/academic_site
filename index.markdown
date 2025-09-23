@@ -14,10 +14,12 @@ permalink: /
     margin: 0 auto;
   }
 
-  .container img {
-    max-width: 100%;
-    height: auto;
-  }
+.container img {
+  max-width: 200px; /* caps image size */
+  width: 100%;      /* allows responsive shrinking */
+  height: auto;     /* keeps aspect ratio */
+}
+
 
   .text-content {
     text-align: justify;
@@ -57,7 +59,7 @@ permalink: /
 
     <p><strong>Google Scholar (September&nbsp;2025):</strong></p>
     <ul>
-      <li>Citations: 9961</li>
+      <li>Citations: 961</li>
       <li>h-index: 14</li>
       <li>i10-index: 16</li>
     </ul>
