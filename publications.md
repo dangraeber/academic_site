@@ -6,8 +6,10 @@ title: "Publications"
 <div class="publications">
   <!-- Most Recent Publication -->
   <div class="publication-entry">
-    <p><strong>"Asylum Seekers and Host Country Mental Health: Evidence from Germany and Switzerland" (accepted, forthcoming 2025).</strong> Journal of Development Economics (with Prashant Bharadwaj, Sarah Khoury, and Christoph Schmid)</p>
-    <p>We show that the arrival of asylum seekers does not affect the mental health of native residents in host countries in Germany and Switzerland.</p>
+    <p><a>href="https://www.sciencedirect.com/science/article/pii/S0304387825001300">Asylum Seekers and Host Country Mental Health: Evidence from Germany and Switzerland</a></p>
+    <p>We show that the arrival of asylum seekers does not affect the mental health of native residents in host countries in Germany and Switzerland</p>
+    <p><strong>Journal of Development Economics</strong></p> 
+    <p>with Prashant Bharadwaj, Sarah Khoury, and Christoph Schmid)</p>
     <details><summary>Abstract</summary>
       <p>Due to recent conflicts and humanitarian issues, millions of people have sought asylum in countries in Europe. The influx of asylum seekers has sparked debates about the impacts of such migratory flows on resident populations. We study how the recent migration of these forcibly displaced people into Europe affects the mental health of the receiving country residents in Switzerland and Germany. We exploit quasi-random variation in asylum seeker placement by matching settlement data with administrative health insurance data on mental health related treatments and survey data capturing self-reported mental health. Despite numerous possible mechanisms, in both countries, we find no economically meaningful effects of asylum seeker flows on residents’ mental health.</p>
     </details>
