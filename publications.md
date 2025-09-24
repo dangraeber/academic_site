@@ -106,15 +106,7 @@ title: "Publications"
     </details>
   </div>
 
-  <div class="publication-entry">
-    <p>
-      <a href="#">
-        Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige
-      </a>
-    </p>
-    <p><strong>Jahrbuch Oekonomie und Gesellschaft, 2022</strong></p>
-    <p>with A. Kritikos and J. Seebauer</p>
-  </div>
+
 
   <!-- 2021 -->
   <div class="publication-entry">
@@ -150,7 +142,19 @@ title: "Publications"
   </div>
 </div>
 
+
+
 # Other publications
+
+  <div class="publication-entry">
+    <p>
+      <a href="#">
+        Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige
+      </a>
+    </p>
+    <p><strong>Jahrbuch Oekonomie und Gesellschaft, 2022</strong></p>
+    <p>with A. Kritikos and J. Seebauer</p>
+  </div>
 
 <style>
   .publications {
