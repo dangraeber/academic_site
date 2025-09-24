@@ -98,7 +98,7 @@ permalink: /
   <p>Email: <code>dgraeber [at] diw [dot] de</code></p>
   <p><strong>Google Scholar (September&nbsp;2025):</strong></p>
   <ul>
-    <li>Citations: 9961</li>
+    <li>Citations: 961</li>
     <li>h-index: 14</li>
     <li>i10-index: 16</li>
   </ul>
