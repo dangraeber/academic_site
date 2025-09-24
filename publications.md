@@ -3,6 +3,8 @@ layout: "page"
 title: "Publications"
 ---
 
+# Peer reviewed publications
+
 <div class="publications">
   <!-- Most Recent Publication -->
   <div class="publication-entry">
@@ -100,14 +102,17 @@ title: "Publications"
       <summary>Abstract</summary>
       <p>
         According to a recent paper by Gelfand et al., COVID-19 infection and case mortality rates are closely connected to the strength of social norms: "Tighter” cultures that abide by strict social norms are more successful in combating the pandemic than “looser” cultures that are more permissive. However, countries with similar levels of cultural tightness exhibit big differences in mortality rates. We are investigating potential explanations for this fact. Using data from Germany and Japan—two “tight” countries with very different infection and mortality rates—we examined how differences in socio-demographic and other determinants explain differences in individual preventive attitudes and behaviors.
+      </p>
     </details>
   </div>
 
   <div class="publication-entry">
     <p>
-      Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige
+      <a href="#">
+        Negative oekonomische und gesundheitliche Auswirkungen der COVID-19-Pandemie auf Selbstaendige
+      </a>
     </p>
-    <p><strong>Jahrbuch Ökonomie und Gesellschaft, 2022</strong></p>
+    <p><strong>Jahrbuch Oekonomie und Gesellschaft, 2022</strong></p>
     <p>with A. Kritikos and J. Seebauer</p>
   </div>
 
@@ -116,7 +121,7 @@ title: "Publications"
     <p>
       <a href="https://link.springer.com/article/10.1007/s00148-021-00849-y">
         COVID-19: a crisis of the female self-employed
-</a>
+      </a>
     </p>
     <p><strong>Journal of Population Economics, 2021</strong></p>
     <p>with A. Kritikos and J. Seebauer</p>
@@ -134,7 +139,7 @@ title: "Publications"
         Attitudes on voluntary and mandatory vaccination against COVID-19: evidence from Germany
       </a>
     </p>
-    <p><strong>PLoS ONE, 2021</strong></p>
+    <p><strong>PLOS ONE, 2021</strong></p>
     <p>with C. Schmidt-Petri and C. Schroeder</p>
     <details>
       <summary>Abstract</summary>
@@ -144,6 +149,8 @@ title: "Publications"
     </details>
   </div>
 </div>
+
+# Other publications
 
 <style>
   .publications {
