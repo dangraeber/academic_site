@@ -19,7 +19,7 @@ title: "Work in Progress"
   </div>
 
   <div class="work-entry">
-    <p><strong>"Inequality of opportunity in wealth: levels, trends, and drivers"</strong> (with Viola Hilbert and Johannes Koenig)<br>
+    <p><strong>"Inequality of opportunity in wealth: levels, trends, and drivers"</strong> (with Viola Hilbert and Johannes Koenig, R&R Oxford Bulletin of Economics and Statistics)<br>
     <a href="https://docs.iza.org/dp16488.pdf">IZA Discussion Paper</a></p>
   </div>
 
