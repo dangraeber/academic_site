@@ -46,8 +46,13 @@ permalink: /
 
 <div class="hero">
   <div>
-    <img src="{{ site.baseurl }}/assets/profile_edited.png"
-         alt="Daniel Graeber profile picture">
+    <figure style="text-align:center; margin:0;">
+      <img src="{{ site.baseurl }}/assets/untitled.png"
+           alt="Daniel Graeber profile picture">
+      <figcaption style="font-size:0.8rem; color:#666; margin-top:0.3rem;">
+        © DIW/Photothek
+      </figcaption>
+    </figure>
   </div>
   <div class="hero-text">
     <h1>Daniel Graeber</h1>
@@ -62,6 +67,7 @@ permalink: /
     <p><em>My research focuses on well-being, health economics, and risk preferences.</em></p>
   </div>
 </div>
+
 
 <div class="section">
   <h2>About</h2>
