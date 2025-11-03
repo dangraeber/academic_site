@@ -48,7 +48,8 @@ permalink: /
   <div>
     <figure style="text-align:center; margin:0;">
       <img src="{{ site.baseurl }}/assets/DGraeber_quer.JPG"
-           alt="Daniel Graeber profile picture">
+           alt="Daniel Graeber profile picture"
+           style="width:85%; max-width:500px; height:auto; border-radius:8px;">
       <figcaption style="font-size:0.8rem; color:#666; margin-top:0.3rem;">
         © DIW/Photothek
       </figcaption>
