@@ -47,7 +47,7 @@ permalink: /
 <div class="hero">
   <div>
     <figure style="text-align:center; margin:0;">
-      <img src="{{ site.baseurl }}/assets/untitled.png"
+      <img src="{{ site.baseurl }}/assets/Untitled.png"
            alt="Daniel Graeber profile picture">
       <figcaption style="font-size:0.8rem; color:#666; margin-top:0.3rem;">
         © DIW/Photothek
